@@ -1,0 +1,1 @@
+# WildFire-Prediction-From-Satellite-images-using-geospatial-remote-sensed-data
